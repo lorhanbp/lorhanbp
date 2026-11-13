@@ -25,28 +25,3 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,react,nextjs,nodejs,tailwind&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,redis,docker,cloudflare,aws,linux,git,github&perline=10" />
 </p>
-
-### 📊 Estatísticas
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorhanbp&theme=tokyonight" />
-</p>
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lorhanbp&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lorhanbp&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lorhanbp&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📌 Projetos em destaque
-| Projeto | O que faz | Stack |
-|---|---|---|
-| **AutoMatchat** | Gerenciador de vários números de WhatsApp com chat interno da equipe | Next.js · Go · Rust · Supabase |
-| **System AI** | Painel e agente de IA que atende clientes pelo WhatsApp | TypeScript · Cloudflare Workers |
-| **Pizzaria Automa** | Cardápio online, pedidos, modo garçom e impressão de comandas | TypeScript · Supabase |
-| **Melô (Empório da Música)** | Agente de IA de atendimento ao cliente | Python |
-
-### 📈 Atividade
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/36BCF7/lorhanbp" />
-</p>
