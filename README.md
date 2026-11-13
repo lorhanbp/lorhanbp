@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o Lorhan 👋</h1>
 <h3 align="center">Desenvolvedor Full Stack · IA & Automação · São Paulo, Brasil</h3>
 
 <p align="center">
@@ -19,19 +18,33 @@ Transformo dor de operação em produto. Comecei no suporte, vi de perto onde o 
 ```ts
 const lorhan = {
   cargo: "Desenvolvedor Full Stack · IA & Automação",
-  agora: ["Auditto Tecnologia", "Automa System (fundador)"],
-  foco: ["Agentes de IA", "Automação de processos", "Integrações"],
-  stack: ["TypeScript", "Next.js", "Go", "Python", "Supabase"],
-  abertoA: "Vagas Full Stack e Engenharia de IA/Automação",
+  base: "São Paulo, Brasil",
+  foco: ["Agentes de IA", "Automação de processos", "Integrações", "Sistemas sob medida"],
+  stack: {
+    front: ["TypeScript", "React", "Next.js", "Tailwind"],
+    back: ["Go", "Python", "Node.js", "Rust"],
+    dados: ["Supabase", "PostgreSQL", "Redis"],
+    nuvem: ["Cloudflare Workers", "AWS", "Docker", "Linux"],
+  },
+  projetos: {
+    atendimento: ["Pomin Call", "Pomin SAC", "AutoMatchat"],
+    ia: ["DevSystem", "System AI", "Agente Empório da Música"],
+    negocios: ["Pizzaria Express", "A Clave", "Automa Report"],
+  },
+  emProducao: 6,
+  cafe: Infinity,
 };
 ```
 
 ### 🔥 O que eu já coloquei no ar
 - 🎧 **Pomin Call**: painel de atendimento no WhatsApp para várias empresas, com fila, SLA, campanhas e relatórios
-- 🎫 **Pomin SAC**: central de chamados que organiza correções e melhorias de todos os sistemas do grupo
-- 🤖 **DevSystem**: agentes de IA que pegam a tarefa do quadro e entregam o Pull Request pronto
-- 🍕 **Pizzaria Express**: do pedido no WhatsApp até a tela da cozinha, em tempo real
+- 🎫 **Pomin SAC**: central de chamados que organiza correções e melhorias de vários sistemas
+- 🤖 **DevSystem**: agentes de IA que pegam a tarefa do quadro e entregam o Pull Request pronto para revisão
+- 🧠 **System AI**: painel de agente de IA que atende clientes no WhatsApp, rodando em Cloudflare Workers
+- 💬 **AutoMatchat**: gerenciador de vários números de WhatsApp com chat interno da equipe (Next.js, Go e Rust)
+- 🍕 **Pizzaria Express**: do pedido no WhatsApp até a cozinha, com modo garçom, comandas e impressão
 - 🎵 **A Clave**: gestão completa de escola de música, da agenda às mensalidades
+- 📊 **Automa Report**: portal de clientes e suporte, com monitoramento de servidores e instâncias de WhatsApp
 
 <p align="center">
   <a href="https://lorhan.netlify.app"><img src="https://img.shields.io/badge/Ver%20os%206%20produtos%20em%20produção%20no%20portfólio-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" /></a>
