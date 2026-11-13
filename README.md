@@ -14,14 +14,24 @@
 ---
 
 ### 🚀 Sobre mim
-Comecei no **suporte**, atendendo chamados e entendendo onde o sistema realmente doía. Daí veio a vontade de parar de reportar o problema e passar a corrigir o código. Hoje construo produtos reais, e cada projeto nasceu de uma dor da operação, não de tutorial.
+Transformo dor de operação em produto. Comecei no suporte, vi de perto onde o sistema travava a vida das pessoas e passei a resolver isso no código. Hoje tenho **6 sistemas em produção**.
 
-- 💼 **Desenvolvedor Full Stack na Auditto Tecnologia**: Pomin Call (painel de atendimento multicanal no WhatsApp) e Pomin SAC (central de chamados do grupo), com integrações entre Supabase, Movidesk, Zeev, Mautic, CustomerX e Greenn
-- 🏢 **Fundador da Automa System**: A Clave (gestão de escola de música), Pizzaria Express (do pedido no WhatsApp até a cozinha), Automa Report e DevSystem (pipeline de agentes de IA que leva uma tarefa até o Pull Request)
-- 🤖 Foco em **IA aplicada**: agentes que terminam tarefas, automações que sustentam processos e integrações que fazem sistemas conversarem
-- 🔐 Segredos sempre no servidor: Cloudflare Functions, sessões assinadas e RLS bem travado
-- 🎓 Análise e Desenvolvimento de Sistemas, com Engenharia de Inteligência Artificial como próximo passo
-- 📫 Aberto a oportunidades como Desenvolvedor Full Stack / Engenheiro de IA e Automação
+```ts
+const lorhan = {
+  cargo: "Desenvolvedor Full Stack · IA & Automação",
+  agora: ["Auditto Tecnologia", "Automa System (fundador)"],
+  foco: ["Agentes de IA", "Automação de processos", "Integrações"],
+  stack: ["TypeScript", "Next.js", "Go", "Python", "Supabase"],
+  abertoA: "Vagas Full Stack e Engenharia de IA/Automação",
+};
+```
+
+### 🔥 O que eu já coloquei no ar
+- 🎧 **Pomin Call**: painel de atendimento no WhatsApp para várias empresas, com fila, SLA, campanhas e relatórios
+- 🎫 **Pomin SAC**: central de chamados que organiza correções e melhorias de todos os sistemas do grupo
+- 🤖 **DevSystem**: agentes de IA que pegam a tarefa do quadro e entregam o Pull Request pronto
+- 🍕 **Pizzaria Express**: do pedido no WhatsApp até a tela da cozinha, em tempo real
+- 🎵 **A Clave**: gestão completa de escola de música, da agenda às mensalidades
 
 <p align="center">
   <a href="https://lorhan.netlify.app"><img src="https://img.shields.io/badge/Ver%20os%206%20produtos%20em%20produção%20no%20portfólio-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" /></a>
