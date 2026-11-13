@@ -8,17 +8,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Sistemas+web+de+ponta+a+ponta;Agentes+de+IA+para+WhatsApp+e+atendimento;Automa%C3%A7%C3%A3o+com+n8n+e+integra%C3%A7%C3%B5es;Next.js+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+Supabase" />
+  <b>💻 Sistemas web de ponta a ponta · 🤖 Agentes de IA para WhatsApp e atendimento · ⚙️ Automação com n8n e integrações</b>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-- 💼 Desenvolvedor Full Stack na **Auditto Tecnologia**, criando sistemas internos de atendimento, e-mail e chat usados pela operação todos os dias
-- 🏢 Fundador da **Automa System**, onde construo agentes de IA e sistemas para pequenos negócios (cardápio digital, pedidos e robô de WhatsApp para pizzaria)
-- 🤖 Foco em **IA aplicada**, automação de processos e integrações (WhatsApp/Evolution API, Supabase, n8n)
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2027)
-- 📫 Aberto a oportunidades como Desenvolvedor Full Stack / Engenheiro de Automação
+Comecei no **suporte**, atendendo chamados e entendendo onde o sistema realmente doía. Daí veio a vontade de parar de reportar o problema e passar a corrigir o código. Hoje construo produtos reais, e cada projeto nasceu de uma dor da operação, não de tutorial.
+
+- 💼 **Desenvolvedor Full Stack na Auditto Tecnologia**: Pomin Call (painel de atendimento multicanal no WhatsApp) e Pomin SAC (central de chamados do grupo), com integrações entre Supabase, Movidesk, Zeev, Mautic, CustomerX e Greenn
+- 🏢 **Fundador da Automa System**: A Clave (gestão de escola de música), Pizzaria Express (do pedido no WhatsApp até a cozinha), Automa Report e DevSystem (pipeline de agentes de IA que leva uma tarefa até o Pull Request)
+- 🤖 Foco em **IA aplicada**: agentes que terminam tarefas, automações que sustentam processos e integrações que fazem sistemas conversarem
+- 🔐 Segredos sempre no servidor: Cloudflare Functions, sessões assinadas e RLS bem travado
+- 🎓 Análise e Desenvolvimento de Sistemas, com Engenharia de Inteligência Artificial como próximo passo
+- 📫 Aberto a oportunidades como Desenvolvedor Full Stack / Engenheiro de IA e Automação
+
+<p align="center">
+  <a href="https://lorhan.netlify.app"><img src="https://img.shields.io/badge/Ver%20os%206%20produtos%20em%20produção%20no%20portfólio-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+</p>
 
 ### 🛠️ Tecnologias
 <p align="center">
