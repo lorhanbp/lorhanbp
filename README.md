@@ -23,7 +23,7 @@ const lorhan = {
   stack: {
     front: ["TypeScript", "React", "Next.js", "Tailwind"],
     back: ["Go", "Python", "Node.js", "Rust"],
-    dados: ["Supabase", "PostgreSQL", "Redis"],
+    dados: ["Supabase", "PostgreSQL", "Redis", "Mysql"],
     nuvem: ["Cloudflare Workers", "AWS", "Docker", "Linux"],
   },
   projetos: {
